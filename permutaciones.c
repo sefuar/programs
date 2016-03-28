@@ -1,6 +1,8 @@
 #include <stdio.h>
 #include <stdlib.h>
-#include <math.h>
+
+/*Author: Sebastián Fuentes Arteaga 
+  email:  sefuar210@hotmail.com*/
 
 //cuenta cantidad de digitos del numero n
 int cantDigitos(int n){

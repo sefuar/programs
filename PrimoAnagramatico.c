@@ -2,7 +2,7 @@
 #include <stdlib.h>
 #include <math.h>
 /*Author: Sebastián Fuentes Arteaga 
-  email:  sfuentes11@alumnos.utalca.cl*/
+  email:  sefuar210@hotmail.com*/
 
 #define MAX_NUMEROS 100
 #define TRUE 1
